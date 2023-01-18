@@ -1,0 +1,16 @@
+{
+  "name": "[Christopher Alphonse]",
+  "img": "[YOUR_IMG_URL]",
+  "email": "[christopheralphonse96@gmail.com]",
+  "links": {
+    "website": "[https://christopheralphonse.com/v1/]",
+    "linkedin": "https://www.linkedin.com/in/christopheralphonse/",
+    "github": "https://github.com/ChristopherAlphonse?tab=repositories"
+  },
+  "jobTitle": "[Software Developer]",
+  "location": {
+    "city": "[Boston]",
+    "state": "[MA]",
+    "country": "[United States]"
+  }
+}
